@@ -1,0 +1,13 @@
+C:\Development\WeyWebApi\Wey.Domain\bin\Debug\Wey.Domain.dll.config
+C:\Development\WeyWebApi\Wey.Domain\bin\Debug\Wey.Domain.dll
+C:\Development\WeyWebApi\Wey.Domain\bin\Debug\Wey.Domain.pdb
+C:\Development\WeyWebApi\Wey.Domain\bin\Debug\EntityFramework.dll
+C:\Development\WeyWebApi\Wey.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\WeyWebApi\Wey.Domain\bin\Debug\EntityFramework.xml
+C:\Development\WeyWebApi\Wey.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\WeyWebApi\Wey.Domain\obj\Debug\Wey.Domain.Migrations.Init.resources
+C:\Development\WeyWebApi\Wey.Domain\obj\Debug\Wey.Domain.Migrations.ValidationAttributeChangesAndEmail.resources
+C:\Development\WeyWebApi\Wey.Domain\obj\Debug\Wey.Domain.Migrations.AffiliateAndBenefit.resources
+C:\Development\WeyWebApi\Wey.Domain\obj\Debug\Wey.Domain.csproj.GenerateResource.Cache
+C:\Development\WeyWebApi\Wey.Domain\obj\Debug\Wey.Domain.dll
+C:\Development\WeyWebApi\Wey.Domain\obj\Debug\Wey.Domain.pdb

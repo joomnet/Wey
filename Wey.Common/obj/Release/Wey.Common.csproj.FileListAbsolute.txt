@@ -1,0 +1,5 @@
+C:\Development\WeyWebApi\Wey.Common\bin\Release\Wey.Common.dll
+C:\Development\WeyWebApi\Wey.Common\bin\Release\Wey.Common.pdb
+C:\Development\WeyWebApi\Wey.Common\obj\Release\Wey.Common.csprojResolveAssemblyReference.cache
+C:\Development\WeyWebApi\Wey.Common\obj\Release\Wey.Common.dll
+C:\Development\WeyWebApi\Wey.Common\obj\Release\Wey.Common.pdb

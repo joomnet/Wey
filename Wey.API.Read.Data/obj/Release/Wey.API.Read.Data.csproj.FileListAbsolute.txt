@@ -1,0 +1,11 @@
+C:\Development\WeyWebApi\Wey.API.Read.Data\bin\Release\Wey.API.Read.dll
+C:\Development\WeyWebApi\Wey.API.Read.Data\bin\Release\Wey.API.Read.pdb
+C:\Development\WeyWebApi\Wey.API.Read.Data\bin\Release\Wey.Common.dll
+C:\Development\WeyWebApi\Wey.API.Read.Data\bin\Release\Wey.Domain.dll
+C:\Development\WeyWebApi\Wey.API.Read.Data\bin\Release\EntityFramework.dll
+C:\Development\WeyWebApi\Wey.API.Read.Data\bin\Release\Wey.Common.pdb
+C:\Development\WeyWebApi\Wey.API.Read.Data\bin\Release\Wey.Domain.pdb
+C:\Development\WeyWebApi\Wey.API.Read.Data\bin\Release\EntityFramework.xml
+C:\Development\WeyWebApi\Wey.API.Read.Data\obj\Release\Wey.API.Read.Data.csprojResolveAssemblyReference.cache
+C:\Development\WeyWebApi\Wey.API.Read.Data\obj\Release\Wey.API.Read.dll
+C:\Development\WeyWebApi\Wey.API.Read.Data\obj\Release\Wey.API.Read.pdb
